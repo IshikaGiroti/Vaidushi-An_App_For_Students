@@ -82,7 +82,7 @@ The proposed system is a handy application that can be used by all the users to 
 
 
 ### Faculty Details
-#### Fculty details such as their phone number, email and cabin number can be easily found here.
+#### Faculty details such as their phone number, email and cabin number can be easily found here.
 <img src="https://user-images.githubusercontent.com/75370975/146677497-5829cc11-1230-40a5-b449-7abfa2e251ec.png" height="450"/>
 
 
