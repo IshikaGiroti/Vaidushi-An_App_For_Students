@@ -29,6 +29,12 @@ The proposed system is a handy application that can be used by all the users to 
 
 ## Module wise breakdown
 
+### App logo
+![image](https://user-images.githubusercontent.com/75370975/150101954-f840aa3a-e1b7-4df3-9d0d-1f9ec75aa5c0.png)
+
+### Loading Screen
+<img src="https://user-images.githubusercontent.com/75370975/150102041-5743168e-1b00-4aa3-810d-a0f6b383f690.png" height="450"/>
+
 ### Main Page. 
 #### This module consists of information about the college along with options to login and signup. 
 <img src="https://user-images.githubusercontent.com/75370975/146675003-07027363-cc0e-466a-ba0e-5bdcb4f13e28.png" height="450"/>
