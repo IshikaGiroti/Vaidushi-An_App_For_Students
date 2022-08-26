@@ -93,7 +93,7 @@ The proposed system is a handy application that can be used by all the users to 
 
 
 ### About us
-#### This section gives information about the developers wo worked on this application.
+#### This section gives information about the developers who worked on this application.
 <img src="https://user-images.githubusercontent.com/75370975/146677517-73539a0a-8fc5-4ccd-8b60-b25e85648de7.png" height="450"/>
 
 
